@@ -1,0 +1,618 @@
+[24-May-2016 07:41:08 UTC] PHP Warning:  require(/home/loginwerbedesign/public_html/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /home/loginwerbedesign/public_html/bootstrap/autoload.php on line 17
+[24-May-2016 07:41:08 UTC] PHP Fatal error:  require(): Failed opening required '/home/loginwerbedesign/public_html/bootstrap/../vendor/autoload.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/loginwerbedesign/public_html/bootstrap/autoload.php on line 17
+[24-May-2016 10:54:49 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:49 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:49 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:49 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:49 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:49 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:50 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:50 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:50 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:50 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:50 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:50 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:51 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:51 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:51 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:51 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:51 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:51 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:51 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:52 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:52 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:52 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:52 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:52 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:52 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:53 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:53 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:53 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:53 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:53 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:53 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:53 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:54 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:54 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:54 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:54 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:54 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:54 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:54 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:55 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:55 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:55 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:59 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:59 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:59 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:59 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:59 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:59 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:54:59 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:00 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:00 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:00 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:00 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:00 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:00 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:00 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:01 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:01 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:01 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:01 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:01 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:01 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:02 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:02 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:02 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:03 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:03 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:03 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:03 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:03 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:03 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:03 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:04 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:04 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:04 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:04 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:04 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:04 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:04 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:11 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:11 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:11 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:11 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:11 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:11 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:12 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:12 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:12 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 42
+[24-May-2016 10:55:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:12 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:16 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:17 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:18 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/loginwerbedesign/public_html/app/Http/routes.php on line 39
+[24-May-2016 10:55:35 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:36 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:36 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:36 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:36 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:36 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:36 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:37 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:37 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:37 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:37 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:37 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:37 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:37 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:41 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:41 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:41 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:41 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:41 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:41 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:41 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:42 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:42 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:42 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:42 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:42 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:42 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:43 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:43 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:43 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:55:43 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:05 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:06 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:06 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:06 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:06 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:06 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:06 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:06 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:07 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:07 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:07 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:07 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:07 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:07 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:08 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:38 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:39 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:39 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:39 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:39 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:39 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:39 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:39 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:40 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:41 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:41 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 10:56:41 UTC] PHP Parse error:  syntax error, unexpected 'Route' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/routes.php on line 37
+[24-May-2016 13:29:21 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 48
+[24-May-2016 13:29:21 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[24-May-2016 13:29:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 48
+[24-May-2016 13:29:33 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[24-May-2016 13:34:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 48
+[24-May-2016 13:34:54 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[24-May-2016 13:35:12 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 48
+[24-May-2016 13:35:12 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[24-May-2016 13:35:51 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 48
+[24-May-2016 13:35:51 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[24-May-2016 13:47:02 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 48
+[24-May-2016 13:47:02 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[24-May-2016 13:50:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 48
+[24-May-2016 13:50:24 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[25-May-2016 08:26:30 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: roleid' in /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php:36
+Stack trace:
+#0 /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/loginwerb...', 36, Array)
+#1 [internal function]: App\Http\Controllers\UserController->edit('3')
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(80): call_user_func_array(Array, Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(146): Illuminate\Routing\Controller->callAction('edit', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(94): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\UserController), Object(Illuminate\Routing\Route), 'edit')
+#5 [internal f in /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php on line 36
+[25-May-2016 08:26:30 UTC] PHP Fatal error:  Cannot access empty property in /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php on line 36
+[25-May-2016 08:26:43 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: roleid' in /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php:36
+Stack trace:
+#0 /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/loginwerb...', 36, Array)
+#1 [internal function]: App\Http\Controllers\UserController->edit('1')
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(80): call_user_func_array(Array, Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(146): Illuminate\Routing\Controller->callAction('edit', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(94): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\UserController), Object(Illuminate\Routing\Route), 'edit')
+#5 [internal f in /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php on line 36
+[25-May-2016 08:26:43 UTC] PHP Fatal error:  Cannot access empty property in /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php on line 36
+[25-May-2016 08:27:11 UTC] PHP Warning:  Uncaught exception 'ErrorException' with message 'Undefined variable: roleid' in /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php:36
+Stack trace:
+#0 /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php(36): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/loginwerb...', 36, Array)
+#1 [internal function]: App\Http\Controllers\UserController->edit('3')
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Routing/Controller.php(80): call_user_func_array(Array, Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(146): Illuminate\Routing\Controller->callAction('edit', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php(94): Illuminate\Routing\ControllerDispatcher->call(Object(App\Http\Controllers\UserController), Object(Illuminate\Routing\Route), 'edit')
+#5 [internal f in /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php on line 36
+[25-May-2016 08:27:11 UTC] PHP Fatal error:  Cannot access empty property in /home/loginwerbedesign/public_html/app/Http/Controllers/UserController.php on line 36
+[27-May-2016 07:56:21 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 07:56:21 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 07:57:30 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 07:57:30 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 07:58:15 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 07:58:15 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 07:58:32 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 07:58:32 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 07:59:21 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 07:59:21 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 07:59:58 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 07:59:58 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:01:07 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:01:07 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:02:30 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:02:30 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:02:31 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:02:31 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:03:01 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:03:01 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:03:01 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:03:01 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:03:25 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:03:25 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:03:25 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:03:25 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:04:02 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:04:02 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:04:03 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:04:03 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:04:11 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:04:11 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:04:11 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:04:11 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:04:33 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:04:33 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:04:33 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:04:33 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:20:39 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:20:39 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:20:40 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:20:40 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:21:42 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:21:42 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:21:42 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:21:42 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:22:05 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:22:05 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:22:06 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:22:06 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:22:20 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:22:20 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:22:20 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:22:20 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:22:29 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:22:29 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:22:29 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:22:29 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:23:39 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:23:39 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:23:39 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:23:39 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:29:18 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:29:18 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:29:18 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:29:18 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:29:26 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:29:26 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:29:26 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:29:26 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:29:45 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:29:45 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 08:29:45 UTC] PHP Parse error:  syntax error, unexpected '**' (T_POW) in /home/loginwerbedesign/public_html/app/Exceptions/Handler.php on line 66
+[27-May-2016 08:29:45 UTC] PHP Fatal error:  Uncaught exception 'ReflectionException' with message 'Class App\Exceptions\Handler does not exist' in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:738
+Stack trace:
+#0 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(738): ReflectionClass->__construct('App\\Exceptions\\...')
+#1 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(633): Illuminate\Container\Container->build('App\\Exceptions\\...', Array)
+#2 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(697): Illuminate\Container\Container->make('App\\Exceptions\\...', Array)
+#3 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(230): Illuminate\Foundation\Application->make('App\\Exceptions\\...', Array)
+#4 /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(735): I in /home/loginwerbedesign/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 738
+[27-May-2016 09:32:30 UTC] PHP Parse error:  syntax error, unexpected 'de' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/Controllers/OfferController.php on line 41
+[27-May-2016 09:32:36 UTC] PHP Parse error:  syntax error, unexpected 'de' (T_STRING) in /home/loginwerbedesign/public_html/app/Http/Controllers/OfferController.php on line 41
+[30-May-2016 07:01:30 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in /home/loginwerbedesign/public_html/app/Http/Controllers/BillController.php on line 58
+[30-May-2016 07:13:37 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Mail' not found in /home/loginwerbedesign/public_html/app/Http/Controllers/BillController.php on line 76
+[30-May-2016 07:17:43 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/loginwerbedesign/public_html/app/Http/Controllers/BillController.php on line 73
+[30-May-2016 07:18:17 UTC] PHP Fatal error:  Call to undefined method stdClass::get() in /home/loginwerbedesign/public_html/app/Http/Controllers/BillController.php on line 72
